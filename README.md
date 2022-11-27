@@ -8,6 +8,8 @@ Ce projet est un exemple de projet Node.js. Il est destiné aux novices qui souh
 
 Si vous préférez la technologie Angular un tuto des enseignants de Polytech est disponible [ici](https://github.com/pns-si3-projects/starter-quiz-two) (en anglais)
 
+Il existe aussi d'autres technologies comme [Vue.js](https://vuejs.org/) ou encore [React](https://fr.reactjs.org/) mais pour celles la je vous laisse chercher la doc en ligne ! 🙌
+
 ## Les outils à installer
 
 ### Un éditeur de texte ou IDE
@@ -109,4 +111,4 @@ npm start
 - Pour arrêter le serveur, appuyez sur `Ctrl+C` dans le terminal
 
 Vous pouvez ouvrir le projet dans votre editeur de texte ou IDE et commencer à coder !  
-(N'oubliez pas de bien mettre un fichier .gitignore dans votre projet git, un template est disponible dans ce dépot)
+❗N'oubliez pas de bien mettre un fichier `.gitignore` dans votre projet git, un template est disponible dans ce dépot
