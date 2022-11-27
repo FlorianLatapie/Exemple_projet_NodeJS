@@ -58,7 +58,7 @@ npm start
 
 - Ouvrez votre navigateur à l'adresse [http://localhost:3000](http://localhost:3000) et vous devriez voir la page suivante :
 
-IMAGE ICI
+![image](https://user-images.githubusercontent.com/70631622/204142156-f44b4873-05c5-457f-a983-ac632c8dfc12.png)
 
 - Pour arrêter le serveur, appuyez sur `Ctrl+C` dans le terminal
 
@@ -102,7 +102,7 @@ npm start
 
 - Ouvrez votre navigateur à l'adresse [http://localhost:3000](http://localhost:3000) et vous devriez voir la page suivante :
 
-IMAGE ICI
+![image](https://user-images.githubusercontent.com/70631622/204142156-f44b4873-05c5-457f-a983-ac632c8dfc12.png)
 
 - Pour arrêter le serveur, appuyez sur `Ctrl+C` dans le terminal
 
