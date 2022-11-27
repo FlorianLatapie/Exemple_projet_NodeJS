@@ -6,6 +6,8 @@ Ce projet est un exemple de projet Node.js. Il est destiné aux novices qui souh
 
 [Source du tuto](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial#_an-express-application)
 
+Si vous préférez la technologie Angular un tuto des enseignants de Polytech est disponible [ici](https://github.com/pns-si3-projects/starter-quiz-two)
+
 ## Les outils à installer
 
 ### Un éditeur de texte ou IDE
