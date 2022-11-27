@@ -106,4 +106,5 @@ npm start
 
 - Pour arrêter le serveur, appuyez sur `Ctrl+C` dans le terminal
 
-Vous pouvez ouvrir le projet dans votre editeur de texte ou IDE et commencer à coder !
+Vous pouvez ouvrir le projet dans votre editeur de texte ou IDE et commencer à coder !  
+(N'oubliez pas de bien mettre un fichier .gitignore dans votre projet git, un template est disponible dans ce dépot)
